@@ -1,0 +1,33 @@
+/*
+* @Author: Di Yang
+* @Date:   2018-07-29 21:49:12
+* @Last Modified by:   Di Yang
+* @Last Modified time: 2018-07-29 22:50:00
+*/
+li {
+  transition: .5s;
+  overflow: hidden;
+}
+
+.handle {
+  width: 40px;
+  border: 1px solid #ccc;
+  background: #fff;
+  position: absolute;
+  right: 10px;
+  top: 1px;
+  text-align: center;
+}
+
+.handle a {
+  display: block;
+  text-decoration: none;
+}
+
+.list-group-item .centence {
+  padding: 0px 50px;
+}
+
+.user {
+  font-size: 22px;
+}
